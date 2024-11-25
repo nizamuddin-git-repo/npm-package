@@ -50,3 +50,5 @@ https://stackoverflow.com/questions/50752350/page-not-found-when-trying-to-acces
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 --//MongoDb---//--
 https://cloud.mongodb.com/v2/673993a3236c764e0429ba35#/overview
+--node-mongodb-collection
+https://www.mongodb.com/docs/drivers/node/v3.6/usage-examples/insertOne/
