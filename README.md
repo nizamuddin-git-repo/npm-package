@@ -47,6 +47,9 @@ https://github.com/staylor/react-helmet-async#readme
 ---//deployed on Netlify Page Not Found-------
 https://stackoverflow.com/questions/50752350/page-not-found-when-trying-to-access-a-site-deployed-on-netlify
 
+//---Express-Basic-Routing--//
+https://expressjs.com/en/starter/basic-routing.html
+
 --// fecth api use--///
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
