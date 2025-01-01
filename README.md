@@ -59,3 +59,6 @@ https://cloud.mongodb.com/v2/673993a3236c764e0429ba35#/overview
 
 --mongoDb-doc--
 https://www.mongodb.com/docs/drivers/node/current/usage-examples/updateOne/
+
+//--dotenv--//
+https://www.npmjs.com/package/dotenv?activeTab=readme
